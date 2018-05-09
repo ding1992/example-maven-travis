@@ -4,7 +4,7 @@
 # prepare upload path, request url
 echo "inside ff-start.sh script"
 
-SCANTIST_IMPORT_URL="https://9d6c7ecc.ngrok.io/import/"
+SCANTIST_IMPORT_URL="https://cf32d47d.ngrok.io/import/"
 
 show_project_info() {
   echo "TRAVIS_EVENT_TYPE $TRAVIS_EVENT_TYPE"
